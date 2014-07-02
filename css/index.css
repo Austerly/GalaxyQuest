@@ -1,0 +1,42 @@
+body {
+
+background-image: url('../images/stardust.png');
+}
+
+.navButton {
+border:1px solid black;
+margin: 2% 5%;
+padding:4%;
+padding-top:2%;
+padding-bottom:2%;
+text-align: center;
+}
+#shipName{
+float:left;
+}
+#officerType {
+float:right;
+}
+#currentOption {
+clear:both;
+}
+
+#content {
+margin:2% 5%;
+padding:7%;
+border:1px solid black;
+text-align: center;
+}
+
+#option1 {
+float:left;
+}
+#option2 {
+float:left;
+}
+#option3 {
+float:left;
+}
+#option4 {
+float:left;
+}
